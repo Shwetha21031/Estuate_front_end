@@ -1,0 +1,8 @@
+script.js
+-Hoisting
+-spread vs rest
+-Math
+-this
+-constructors
+
+
